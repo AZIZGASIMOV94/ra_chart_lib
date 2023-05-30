@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AZIZGASIMOV94/ra_chart_lib.git/static/css/main.e6c13ad2.css",
+    "main.js": "/AZIZGASIMOV94/ra_chart_lib.git/static/js/main.661fef1e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/AZIZGASIMOV94/ra_chart_lib.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/AZIZGASIMOV94/ra_chart_lib.git/index.html",
+    "main.e6c13ad2.css.map": "/AZIZGASIMOV94/ra_chart_lib.git/static/css/main.e6c13ad2.css.map",
+    "main.661fef1e.js.map": "/AZIZGASIMOV94/ra_chart_lib.git/static/js/main.661fef1e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/AZIZGASIMOV94/ra_chart_lib.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.661fef1e.js"
+  ]
+}
